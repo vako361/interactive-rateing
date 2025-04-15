@@ -1,0 +1,25 @@
+.main-section{
+  display: flex;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 327px;
+  height: 360px;
+  border-radius: 15px;
+  background: var(--black-gradient, radial-gradient(98.96% 98.96% at 50% 0%, #232A34 0%, #181E27 100%));
+}
+.star{
+  width: 25px;
+  height: 25px;
+  margin-bottom: 20px;
+  
+}
+.star-wraper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px; 
+  width: 45px;
+  height: 45px;
+}
