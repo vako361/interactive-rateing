@@ -1,7 +1,7 @@
   import React, { useState } from 'react';
   import './App.css';
   import Rate from './component/Rate';
-  import Result from './component/result.jsx';
+  import Result from './component/Result';
 
   function App() {
     const [submit, setSubmit] = useState(false);
