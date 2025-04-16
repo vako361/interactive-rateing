@@ -68,3 +68,12 @@ margin-bottom: 34px;
     color: white;
     border: none;    
 }
+.num:hover{
+  cursor: pointer;
+  background-color: var(--Orange, #FC7614);
+}
+.submit:hover{
+  cursor: pointer;
+  background-color: white;
+  color: #FC7614;
+}
